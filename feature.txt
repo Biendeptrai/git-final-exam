@@ -1,0 +1,7 @@
+# Tính năng mới: Tự động sao lưu bài tập
+
+- Hệ thống sẽ tự động commit thay đổi mỗi ngày.
+- Tính năng giúp tránh mất mát dữ liệu.
+- Người dùng có thể cấu hình giờ sao lưu.
+- Hỗ trợ đồng bộ trực tiếp lên GitHub.
+- Giúp sinh viên yên tâm khi làm bài tập.
