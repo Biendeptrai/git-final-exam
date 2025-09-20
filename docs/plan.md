@@ -9,3 +9,6 @@
 - Chủ nhật: Viết báo cáo và chuẩn bị bài kiểm tra.
 - Ngày bắt đầu: 20/09/2025
 - Ngày kết thúc: 21/09/2025
+- Luyện giải bài tập Git nâng cao.
+- Đọc thêm tài liệu về GitHub Actions.
+- Tìm hiểu CI/CD cơ bản.
