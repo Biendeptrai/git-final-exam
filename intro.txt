@@ -1,2 +1,6 @@
 Xin chào, tôi là Lê Công Biên
+Hello, this is Lê Công Biên
+
+Conflict resolved on 20/09/2025
+
 
