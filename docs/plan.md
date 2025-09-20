@@ -12,3 +12,5 @@
 - Luyện giải bài tập Git nâng cao.
 - Đọc thêm tài liệu về GitHub Actions.
 - Tìm hiểu CI/CD cơ bản.
+- Học thêm về Git stash.
+- Viết báo cáo về kinh nghiệm sử dụng Git.
