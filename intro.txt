@@ -12,3 +12,9 @@ Kỹ năng:
 - Lập trình web
 - Giao tiếp tốt
 - Fan 20 đội bóng ngoại hạng anh
+
+Kế hoạch học tập:
+- Hoàn thành môn học về Git và Quản lý mã nguồn.
+- Luyện tập các dự án nhỏ để nâng cao kỹ năng.
+- Rèn luyện tiếng Anh chuyên ngành.
+- Tham gia CLB lập trình tại trường.
